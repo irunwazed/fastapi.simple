@@ -1,6 +1,4 @@
-# be-dikdin-pengolahan-2024
-
-Backend Pengolahan Sekolah Kedinasan (DIKDIN) 2024
+# BE FAST API
 
 ## Instalasi
 
