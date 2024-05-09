@@ -8,8 +8,8 @@ pip install -r requirements.txt
 
 ## Running
 ```
-fastapi dev
-fastapi run main.py
+fastapi dev server.py
+fastapi run server.py
 ```
 
 ## Dokumentasi
